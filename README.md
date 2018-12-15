@@ -31,3 +31,9 @@ $ npm run test:dev
 ```
 
 Please check the issues / project before starting to work on a feature / bug to make sure it's not already in progress.
+
+
+## 中文文档：
+运行示例时需要把package.json中的angular-tree-component版本设置为8.0.0，即
+`"angular-tree-component": "8.0.0"`
+否则示例运行将报错
